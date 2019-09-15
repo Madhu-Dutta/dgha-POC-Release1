@@ -1,0 +1,25 @@
+.slide {
+  height: 90vh;
+}
+
+.content {
+  height: 100%;
+  background-color: white;
+  padding: 70px 20px 20px 20px;
+  overflow-y: scroll;
+}
+
+.nav {
+  height: 10vh;
+  width: 100%;
+}
+
+.button {
+  height: 100%;
+  width: auto;
+  background-color: #000a12 !important;
+}
+
+header {
+  text-align: center;
+}
